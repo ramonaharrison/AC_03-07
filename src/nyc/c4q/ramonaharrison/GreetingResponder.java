@@ -4,7 +4,7 @@ package nyc.c4q.ramonaharrison;
  * Access Code 2.1
  * Ramona Harrison
  * GreetingResponder.java
- * This class responds to greetings
+ * This class responds to greetings9
  */
 
 import java.util.Scanner;
@@ -27,3 +27,7 @@ public class GreetingResponder {
 
     }
 }
+
+if (repond1.equals("no") && )
+
+if ((4 < 3) && (5 == 5))
